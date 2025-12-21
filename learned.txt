@@ -1,0 +1,12 @@
+What is Node.js - A runtime enviroment allowing you to use js on you computer.
+Usually you can only us js on the browser which has a compiler V8 which uses
+your computers resources to run the code. This is different than 
+having a companies server constantly ping you simple changes everytime something
+happens. Also because js runs on the browser there are security restrictions which 
+make it so it can access part of you computer without asking or limit the things it 
+can do. With Node.js you can run js on your computer accessing anything you want. Also 
+npm standing for (node package manager) is a repository with packages which do things. 
+Its like github has stuff in js you can use without needing to do I yourself. It also 
+helps with downloading dependences. So if you have a file with a package it imports which 
+relies on another package etc npm when giving the code to another perosn will download 
+everthing necessary
